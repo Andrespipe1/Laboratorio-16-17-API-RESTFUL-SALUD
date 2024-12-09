@@ -1,4 +1,4 @@
-import { Mongoose } from 'mongoose';
+import mongoose  from 'mongoose';
 import app from './server.js'
 import connection from './database.js';
 
